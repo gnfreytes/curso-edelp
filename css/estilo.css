@@ -10,14 +10,26 @@
   background-color: #DE1D22;
 }
 
-#color-fondo-c2{
-  background-color: #d91c22;
-}
-
 .bg-gris{
-  background-color: #ededed; 
+  background-color: #ededed;
 }
 
-.bg-black {
+.bg-black{
   background-color: black;
+}
+
+.fa-facebook-f{
+  color: white;
+}
+
+.fa-twitter{
+  color: white;
+}
+
+.fa-instagram{
+  color: white;
+}
+
+.fa-youtube{
+  color: white;
 }
